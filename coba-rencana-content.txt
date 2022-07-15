@@ -4,6 +4,7 @@ Rencana awal Konten
  * ES6
  *Framefork javascript
   ^Vue
+  -React
  struktusr
  -interview=
 -Php Freamework
