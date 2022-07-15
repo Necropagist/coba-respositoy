@@ -4,8 +4,9 @@ Rencana awal Konten
  * ES6
  *Framefork javascript
   ^Angular
-  ^React
+  ^React 
 -Php Freamework
   ^Laravel
 -Interview
 -Vlog
+-Python
