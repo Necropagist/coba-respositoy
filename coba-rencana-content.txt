@@ -1,0 +1,6 @@
+Rencana awal Konten
+
+-JavaScript
+-Php Freamework
+-Interview
+-Vlog
