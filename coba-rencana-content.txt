@@ -1,6 +1,8 @@
 Rencana awal Konten
 
 -JavaScript
+ * ES6
+ *Framefork javascript
 -Php Freamework
 -Interview
 -Vlog
