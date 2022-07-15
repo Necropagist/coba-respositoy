@@ -3,11 +3,10 @@ Rencana awal Konten
 -JavaScript
  * ES6
  *Framefork javascript
-  ^Vue
-  -React
- struktusr
- -interview=
+  ^Angular
+  ^React 
 -Php Freamework
+  ^Laravel
 -Interview
 -Vlog
 -Python
